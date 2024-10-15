@@ -226,7 +226,7 @@ namespace noName.WpfApp.ViewModel
             CreateCabinLayoutGrid();
             AddCabinsToCollection();
             AddCabinsToGrid();
-
+            _logger.LogInformation($"ahoj");
             _database = new Database(_logger);
         }
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\eva.valentova\\Desktop\\Soukrome\\Nová složka\\ff\\noName.WpfApp\\noName.WpfApp\\noName.WpfApp.csproj": {}
+    "C:\\Users\\eva.valentova\\Desktop\\Soukrome\\Nová složka\\ff\\noName.WpfApp\\noName.WpfApp\\noName.WpfApp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\eva.valentova\\Desktop\\Soukrome\\Nová složka\\ff\\noName.WpfApp\\noName.WpfApp\\noName.WpfApp.csproj": {
+    "C:\\Users\\eva.valentova\\Desktop\\Soukrome\\Nová složka\\ff\\noName.WpfApp\\noName.WpfApp\\noName.WpfApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\eva.valentova\\Desktop\\Soukrome\\Nová složka\\ff\\noName.WpfApp\\noName.WpfApp\\noName.WpfApp.csproj",
+        "projectUniqueName": "C:\\Users\\eva.valentova\\Desktop\\Soukrome\\Nová složka\\ff\\noName.WpfApp\\noName.WpfApp\\noName.WpfApp.csproj",
         "projectName": "noName.WpfApp",
-        "projectPath": "c:\\Users\\eva.valentova\\Desktop\\Soukrome\\Nová složka\\ff\\noName.WpfApp\\noName.WpfApp\\noName.WpfApp.csproj",
+        "projectPath": "C:\\Users\\eva.valentova\\Desktop\\Soukrome\\Nová složka\\ff\\noName.WpfApp\\noName.WpfApp\\noName.WpfApp.csproj",
         "packagesPath": "C:\\Users\\eva.valentova\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\eva.valentova\\Desktop\\Soukrome\\Nová složka\\ff\\noName.WpfApp\\noName.WpfApp\\obj\\",
+        "outputPath": "C:\\Users\\eva.valentova\\Desktop\\Soukrome\\Nová složka\\ff\\noName.WpfApp\\noName.WpfApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
