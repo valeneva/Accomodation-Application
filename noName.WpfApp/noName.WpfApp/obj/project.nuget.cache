@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DvwZpPw6ta0=",
+  "dgSpecHash": "IdlhXJQBFMY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\eva.valentova\\Desktop\\noName\\noName.WpfApp\\noName.WpfApp\\noName.WpfApp.csproj",
+  "projectFilePath": "C:\\Users\\eva.valentova\\Desktop\\Soukrome\\Nová složka\\ff\\noName.WpfApp\\noName.WpfApp\\noName.WpfApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eva.valentova\\.nuget\\packages\\closedxml\\0.102.3\\closedxml.0.102.3.nupkg.sha512",
     "C:\\Users\\eva.valentova\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",

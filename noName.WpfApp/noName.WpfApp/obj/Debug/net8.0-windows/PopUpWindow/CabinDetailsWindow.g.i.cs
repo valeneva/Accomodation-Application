@@ -53,7 +53,7 @@ namespace noName.WpfApp.PopUpWindow {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/noName.WpfApp;component/popupwindow/cabindetailswindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/noName.WpfApp;V1.0.0.0;component/popupwindow/cabindetailswindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\PopUpWindow\CabinDetailsWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
