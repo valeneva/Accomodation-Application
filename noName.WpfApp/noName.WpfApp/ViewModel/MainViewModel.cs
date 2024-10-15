@@ -22,7 +22,7 @@ namespace noName.WpfApp.ViewModel
     using System.Windows.Controls;
     using System.Windows.Input;
     using System.Windows.Media;
-
+    using noName.WpfApp.Database;
     public class MainViewModel : ViewModelBase
     {
 
@@ -31,6 +31,8 @@ namespace noName.WpfApp.ViewModel
         private readonly ILogger _logger;
         private readonly ILoggerFactory _loggerFactory;
         private List<DataModel> _dataModel;
+
+        private Database _database;
 
         #endregion
 
@@ -224,6 +226,8 @@ namespace noName.WpfApp.ViewModel
             CreateCabinLayoutGrid();
             AddCabinsToCollection();
             AddCabinsToGrid();
+
+            _database = new Database(_logger);
         }
 
 

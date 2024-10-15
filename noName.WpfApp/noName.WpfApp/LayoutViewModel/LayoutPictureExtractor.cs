@@ -36,7 +36,7 @@ namespace noName.WpfApp.LayoutViewModel
         public LayoutPictureExtractor()
         {
             _cabinsBoundingBox = new List<Rectangle>();
-            LoadLayoutPicPNG();
+            //LoadLayoutPicPNG();
         }
 
         #endregion
@@ -45,6 +45,7 @@ namespace noName.WpfApp.LayoutViewModel
         /// <summary>
         /// Load obrázku layout v .png, upravení pro další praci
         /// </summary>
+        /*
         public void LoadLayoutPicPNG()
         {
             //cesta k .png
@@ -72,7 +73,7 @@ namespace noName.WpfApp.LayoutViewModel
 
             DetectOutline(grayImage);
         }
-
+*/
 
         /// <summary>
         /// Detekce obrysů obrázku

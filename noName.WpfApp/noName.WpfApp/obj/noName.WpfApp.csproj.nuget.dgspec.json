@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eva.valentova\\Desktop\\Soukrome\\Nová složka\\ff\\noName.WpfApp\\noName.WpfApp\\noName.WpfApp.csproj": {}
+    "c:\\Users\\eva.valentova\\Desktop\\Soukrome\\Nová složka\\ff\\noName.WpfApp\\noName.WpfApp\\noName.WpfApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eva.valentova\\Desktop\\Soukrome\\Nová složka\\ff\\noName.WpfApp\\noName.WpfApp\\noName.WpfApp.csproj": {
+    "c:\\Users\\eva.valentova\\Desktop\\Soukrome\\Nová složka\\ff\\noName.WpfApp\\noName.WpfApp\\noName.WpfApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eva.valentova\\Desktop\\Soukrome\\Nová složka\\ff\\noName.WpfApp\\noName.WpfApp\\noName.WpfApp.csproj",
+        "projectUniqueName": "c:\\Users\\eva.valentova\\Desktop\\Soukrome\\Nová složka\\ff\\noName.WpfApp\\noName.WpfApp\\noName.WpfApp.csproj",
         "projectName": "noName.WpfApp",
-        "projectPath": "C:\\Users\\eva.valentova\\Desktop\\Soukrome\\Nová složka\\ff\\noName.WpfApp\\noName.WpfApp\\noName.WpfApp.csproj",
+        "projectPath": "c:\\Users\\eva.valentova\\Desktop\\Soukrome\\Nová složka\\ff\\noName.WpfApp\\noName.WpfApp\\noName.WpfApp.csproj",
         "packagesPath": "C:\\Users\\eva.valentova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eva.valentova\\Desktop\\Soukrome\\Nová složka\\ff\\noName.WpfApp\\noName.WpfApp\\obj\\",
+        "outputPath": "c:\\Users\\eva.valentova\\Desktop\\Soukrome\\Nová složka\\ff\\noName.WpfApp\\noName.WpfApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,6 +65,10 @@
               "target": "Package",
               "version": "[4.9.0.5494, )"
             },
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[9.0.0-preview.6.24327.7, )"
@@ -112,6 +116,10 @@
             "Serilog.Sinks.File": {
               "target": "Package",
               "version": "[6.0.0, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.113.6, )"
             }
           },
           "imports": [
