@@ -1,0 +1,17 @@
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <Version>24.72.0.0</Version>
+    <Copyright>2024 © noName s. r. o. Všechna práva vyhrazena.</Copyright>
+    <Company>noName s. r. o.</Company>
+    <Product>noName</Product>
+    <PackageProjectUrl>https://gitlab.com/xsladk12/camp-assigner</PackageProjectUrl>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://gitlab.com/xsladk12/camp-assigner.git</RepositoryUrl>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+  <ItemDefinitionGroup />
+  <ItemGroup />
+</Project>

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "noName.WpfApp": {
+      "commandName": "Project",
+      "workingDirectory": "$(TargetDir)",
+      "nativeDebugging": true
+    }
+  }
+}

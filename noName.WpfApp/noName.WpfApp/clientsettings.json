@@ -1,0 +1,8 @@
+{
+  "client": {
+    "baseUrl": "http://localhost:4880/",
+    "timeoutSeconds": 30,
+    "pythonPath": "C:\\Users\\eva.valentova\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "scriptPath": "C:\\Users\\eva.valentova\\Desktop\\noName\\flaskServer.py"
+  }
+}
